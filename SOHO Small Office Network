@@ -1,0 +1,19 @@
+SOHO Small Office Network – Packet Tracer Project
+In this project, I designed and implemented a Small Office/Home Office (SOHO) network using Cisco Packet Tracer. The goal was to build a secure, scalable, and functional network that provides LAN connectivity, wireless access, automatic IP assignment (DHCP), and controlled internet access using NAT and ACL-based firewall rules.
+
+Objectives
+Provide connectivity between wired and wireless devices
+Automatically assign IP addresses using DHCP
+Enable internet access using NAT (PAT)
+Secure the internal network from external access using ACLs
+Simulate a real-world office network environment
+
+Network Components
+🔹 Core Devices
+Cisco Router (ISP Simulation)
+Firewall Router (Internal Gateway + NAT + DHCP)
+Cisco 2960 Switch
+Wireless Access Point
+🔹 End Devices
+PCs (wired users)
+Laptop (wireless user)
